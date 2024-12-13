@@ -26,5 +26,6 @@ print('hello world')
 
 [Press here](https://www.google.com)
 
-
+## Do it yourself
+아래의 커밋 제목을 만족하는 작업 수행해보기
 
